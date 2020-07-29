@@ -1,1 +1,1 @@
-[![HitCount](http://hits.dwyl.com/rileyjshaw/rileyjshaw.svg)](http://hits.dwyl.com/rileyjshaw/rileyjshaw)
+![Hit count](https://komarev.com/ghpvc/?username=rileyjshaw&color=blueviolet)
