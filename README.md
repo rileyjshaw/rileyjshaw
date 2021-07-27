@@ -21,9 +21,9 @@
      llJ   _ _)J--._.-('           |     |  l
      |||( ( '_)_  .l   ". _    ..__I     |  L
      ^\\\||`'   "   '"-. " )''`'---'     L.-'`-.._
-          \ |           ) /.  wrote some  ``'`-.._``-.
-          l l          / / |    really beautiful  |''|
-           " \        / /   "-..__    code        |  |
+          \ |           ) /. BUGFIX: Add  ``'`-.._``-.
+          l l          / / |    corresponding     |''|
+           " \        / /   "-..__  closing paren |  |
            | |       / /          1       ,- t-...J_.'
            | |      / /           |       |  |
            J  \  /"  (            l       |  |
