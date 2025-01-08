@@ -15,17 +15,13 @@ You can learn far more about me at [my personal website](https://rileyjshaw.com)
 ```
 
 
-
-
-
-
            _..--""---.
           /           ".
           `            l
           |'._  ,._ l/"\
           |  _J<__/.v._/
            \( ,~._,,,,-)
-            `-\' \`,,j|    -- a life well spent
+            `-\' \`,,j|    -- the gods wait to delight in this code
                \_,____J
           .--.__)--(__.--.
          /  `-----..--'. j
